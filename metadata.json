@@ -1,0 +1,5 @@
+{
+  "name": "SecureRes - 4K/2K Converter",
+  "description": "A privacy-focused, offline-only image resolution converter. Upscale or resize images to 4K and 2K instantly in your browser without data leaks.",
+  "requestFramePermissions": []
+}
